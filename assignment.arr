@@ -123,7 +123,7 @@ support.test-encryptor9(my-encryptor9)
 
 #my encryptor 10
 
-support.encryptor10("!.r93")
+support.encryptor10("!.r94")
 support.encryptor10("AEIOU")
 support.encryptor10("uoia")
 
